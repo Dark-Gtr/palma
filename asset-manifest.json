@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/palma/static/css/main.c04d1d84.chunk.css",
+    "main.js": "/palma/static/js/main.46a615e3.chunk.js",
+    "main.js.map": "/palma/static/js/main.46a615e3.chunk.js.map",
+    "runtime-main.js": "/palma/static/js/runtime-main.078e8a49.js",
+    "runtime-main.js.map": "/palma/static/js/runtime-main.078e8a49.js.map",
+    "static/css/2.d45d6843.chunk.css": "/palma/static/css/2.d45d6843.chunk.css",
+    "static/js/2.5377578d.chunk.js": "/palma/static/js/2.5377578d.chunk.js",
+    "static/js/2.5377578d.chunk.js.map": "/palma/static/js/2.5377578d.chunk.js.map",
+    "static/js/3.946e6cc3.chunk.js": "/palma/static/js/3.946e6cc3.chunk.js",
+    "static/js/3.946e6cc3.chunk.js.map": "/palma/static/js/3.946e6cc3.chunk.js.map",
+    "index.html": "/palma/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/palma/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.c04d1d84.chunk.css.map": "/palma/static/css/main.c04d1d84.chunk.css.map",
+    "static/js/2.5377578d.chunk.js.LICENSE.txt": "/palma/static/js/2.5377578d.chunk.js.LICENSE.txt",
+    "static/media/button-add.0dc80c4a.svg": "/palma/static/media/button-add.0dc80c4a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.078e8a49.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.5377578d.chunk.js",
+    "static/css/main.c04d1d84.chunk.css",
+    "static/js/main.46a615e3.chunk.js"
+  ]
+}
